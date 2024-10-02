@@ -8,7 +8,7 @@ import time
 from image_editor import ImageEditor
 
 import boto3
-
+# SPDX-License-Identifier: Apache-2.0
 BW_FOLDER = "bw-images/"
 BRIGHTEN_FOLDER = "brighten-images/"
 
